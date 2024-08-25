@@ -675,7 +675,7 @@ html {
 /* Footer */
 .footer {
   background-color: var(--grey-color);
-  padding: 4rem 0 2rem 0;
+  padding: 2rem 0 2rem 0;
 }
 
 .footer-list {
@@ -694,7 +694,6 @@ html {
 }
 
 .footer-link:hover {
-  transform: rotate(0deg);
   box-shadow: 0 2rem 3rem #000;
 }
 
